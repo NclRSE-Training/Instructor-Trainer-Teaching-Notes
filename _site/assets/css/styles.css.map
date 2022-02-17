@@ -1,0 +1,14 @@
+{
+	"version": 3,
+	"file": "styles.css",
+	"sources": [
+		"styles.scss",
+		"_sass/main.scss"
+	],
+	"sourcesContent": [
+		"@import \"main\";\n\n",
+		".discussion {\n  font-family: \"Helvetica Neue\", Helvetica, Arial, sans-serif;\n  background-color: #eec27520;\n  width: 1170px;\n  border: 1px solid #eec377;\n  padding-right: 15px;\n  padding-left: 15px;\n  margin-right: auto;\n  margin-left: auto;\n}\n\nh1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {\n    font-family: inherit;\n    font-weight: 500;\n    line-height: 1.1;\n    color: inherit;\n}\n\n.discussion h2 {\n  padding-top: 5px;\n  padding-bottom: 5px;\n  font-size: 20px;\n  background: linear-gradient(to bottom, #eec275, #f0c883);\n  border-color: #eec275;\n  margin-top: 0px;\n  margin-left: -5px;\n}\n\n.solution {\n  background-color: #ded4b94d;\n}\n\nsummary {\n  padding-top: 5px;\n  padding-bottom: 5px;\n  font-size: 20px;\n  background: linear-gradient(to bottom, #ded4b9, #e1d8c0);\n  border-color: #ded4b9;\n  margin-top: 0px;\n  margin-left: -5px;\n}\n"
+	],
+	"names": [],
+	"mappings": "ACAA,AAAA,WAAW,CAAC,EACV,WAAW,EAAE,8CAA8C,EAC3D,gBAAgB,EAAE,SAAS,EAC3B,KAAK,EAAE,MAAM,EACb,MAAM,EAAE,iBAAiB,EACzB,aAAa,EAAE,IAAI,EACnB,YAAY,EAAE,IAAI,EAClB,YAAY,EAAE,IAAI,EAClB,WAAW,EAAE,IAAI,GAClB;;AAED,AAAA,EAAE,EAAE,EAAE,EAAE,EAAE,EAAE,EAAE,EAAE,EAAE,EAAE,EAAE,EAAE,GAAG,EAAE,GAAG,EAAE,GAAG,EAAE,GAAG,EAAE,GAAG,EAAE,GAAG,CAAC,EACjD,WAAW,EAAE,OAAO,EACpB,WAAW,EAAE,GAAG,EAChB,WAAW,EAAE,GAAG,EAChB,KAAK,EAAE,OAAO,GACjB;;AAED,AAAA,WAAW,CAAC,EAAE,CAAC,EACb,WAAW,EAAE,GAAG,EAChB,cAAc,EAAE,GAAG,EACnB,SAAS,EAAE,IAAI,EACf,UAAU,EAAE,4CAA4C,EACxD,YAAY,EAAE,OAAO,EACrB,UAAU,EAAE,GAAG,EACf,WAAW,EAAE,IAAI,GAClB;;AAED,AAAA,SAAS,CAAC,EACR,gBAAgB,EAAE,SAAS,GAC5B;;AAED,AAAA,OAAO,CAAC,EACN,WAAW,EAAE,GAAG,EAChB,cAAc,EAAE,GAAG,EACnB,SAAS,EAAE,IAAI,EACf,UAAU,EAAE,4CAA4C,EACxD,YAAY,EAAE,OAAO,EACrB,UAAU,EAAE,GAAG,EACf,WAAW,EAAE,IAAI,GAClB"
+}

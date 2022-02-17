@@ -1,0 +1,16 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>{{ page.title }}</title>
+    <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/styles.css">
+  </head>
+  <body>
+  <div class="discussion">
+    <h2>{{ page.title }}</h2>
+    {{ content }}
+    <a href="{{ page.next_link }}">{{ page.next_page }}</a>
+  </div>
+  </body>
+</html>
+

@@ -1,0 +1,11 @@
+.discussion { font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; background-color: #eec27520; width: 1170px; border: 1px solid #eec377; padding-right: 15px; padding-left: 15px; margin-right: auto; margin-left: auto; }
+
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 { font-family: inherit; font-weight: 500; line-height: 1.1; color: inherit; }
+
+.discussion h2 { padding-top: 5px; padding-bottom: 5px; font-size: 20px; background: linear-gradient(to bottom, #eec275, #f0c883); border-color: #eec275; margin-top: 0px; margin-left: -5px; }
+
+.solution { background-color: #ded4b94d; }
+
+summary { padding-top: 5px; padding-bottom: 5px; font-size: 20px; background: linear-gradient(to bottom, #ded4b9, #e1d8c0); border-color: #ded4b9; margin-top: 0px; margin-left: -5px; }
+
+/*# sourceMappingURL=styles.css.map */
