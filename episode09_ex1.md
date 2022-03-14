@@ -13,4 +13,4 @@ This exercise should take about 5 minutes.
 ### The Nine Core Values of the Carpentries
 |||
 |---|---|
-|Act Openly: We believe that transparency, honesty, and fairness are keys to fostering trust within an open community.![Act Openly](image001.png)|Empower One Another: We help people build knowledge by creating a conducive environment for the exchange of skills, perspectives and experiences that empower people and enable them to reach their potential.![Empower One Another](image002.png)|
+|Act Openly: We believe that transparency, honesty, and fairness are keys to fostering trust within an open community.![Act Openly](/assets/images/image001.png)|Empower One Another: We help people build knowledge by creating a conducive environment for the exchange of skills, perspectives and experiences that empower people and enable them to reach their potential.![Empower One Another](/assets/images/image002.png)|
