@@ -12,7 +12,9 @@ inclusive language. It can be exclusionary to use a term that relates to a disab
 for other purposes. We introduce both terms, however, to help you as future
 instructors engage with these ideas in
 the literature and with people outside of The Carpentries community.
+
 In evaluating potential terms, one instructor provided the following thoughts:
+
 I like expert awareness gap because it is more precise than blind spot
 (it is not about seeing, but about noticing) and feels more of a surmountable
 challenge than a disadvantage. To me a disadvantage can sometimes feel like
