@@ -11,4 +11,5 @@ and explain how you would use it (or a simplified version of it) as an exercise 
 **Pair** up with your neighbor and decide where this exercise fits on a graph of 'short/long time to master' and 'low/high usefulness'.
 In the class Etherpad, **share** the task and where it fits on the graph.
 As a group, we will discuss how these relate back to our 'teach most immediately useful first' approach.
+
 This exercise should take about 10 minutes.
