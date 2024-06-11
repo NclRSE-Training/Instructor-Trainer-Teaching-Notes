@@ -11,11 +11,13 @@ asked to explore and learn to solve problems on their own.
 Minimal guidance is commonly found in many instructional strategies you may have encountered,
 variously known as *constructivist*, *discovery*, *problem-based*, *experiential*
 or *inquiry-based* learning.
+
 These strategies are not without merit! Indeed, they can work exceptionally well with advanced learners.
 However, they frequently fall flat, especially with novice audiences.
-A landmark paper by [Kirshner et al.][kirschner-paper]
+A landmark paper by [Kirshner et al.](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.tandfonline.com/doi/pdf/10.1207/s15326985ep4102_1)
 responds to the popularity and uneven success of minimal guidance, applying
 cognitive load theory to understand why these strategies often fail.
+
 Some people feel concerned that guided practice amounts to 'hand-holding,'
 implying that learners who receive support may never learn
 to function independently. This view fails to account for the *additional cognitive
