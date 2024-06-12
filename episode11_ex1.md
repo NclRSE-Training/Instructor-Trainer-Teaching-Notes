@@ -5,7 +5,7 @@ next_page: Episode 11 Exercise 2
 next_link: episode11_ex2
 ---
 
-Several research studies (in [2007][fincher-warren], [2012][fincher-stories], and [2015][barker-practice]) have shown
+Several research studies (in [2007](https://carpentries.github.io/instructor-training/files/papers/fincher-warrens-questions-2007.pdf), [2012](https://carpentries.github.io/instructor-training/files/papers/fincher-stories-change-2012.pdf), and [2015](https://carpentries.github.io/instructor-training/files/papers/barker-practice-adoption-2015.pdf)) have shown
 that teachers do not adopt instructional practices based on reports about the effectiveness of those practices.
 Social norms, institutional
 culture, and lack of time and support prevent many teachers from moving out of
