@@ -11,4 +11,5 @@ conference you attended where the elevator was out of service, or maybe
 a class you were taking relied on audio delivery of content. Describe what happened,
 how it impacted your (or someone else's) ability to be involved and what could
 have been done to provide better accessibility in this case.
+
 This exercise should take about 5 minutes.
